@@ -1,0 +1,179 @@
+@import url('https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap');
+
+.fbg {
+    background-color: #f7d279;
+    min-height: 100vh;
+    background-size: cover;
+}
+
+.down-box {
+    background-color: white;
+    border-radius: 8px;
+    margin: 15px;
+
+}
+
+.head {
+    font-family: "playfair display SC";
+    font-size: 21px;
+    color: black;
+    margin-left: 10px;
+}
+
+.head2 {
+    font-family: "playfair display sc";
+    font-size: 21px;
+    color: black;
+    margin: 10px;
+}
+
+.para {
+    font-family: "playfair display SC";
+    font-size: 13px;
+    color: black;
+    margin-left: 10px;
+}
+
+.image {
+    width: 125px;
+    height: 145px;
+    margin: 5px;
+}
+
+.tags {
+    font-family: "roboto";
+    margin-left: 5px;
+    font-size: 15px;
+}
+
+.tag2 {
+    font-family: "roboto";
+    margin-left: 30px;
+    font-size: 15px;
+}
+
+.tag22 {
+    margin-left: 110px;
+}
+
+.tag222 {
+    margin-left: 74px;
+
+}
+
+.see {
+    color: #99ffff;
+    margin-left: 5px;
+    font-weight: 100;
+    font-size: 13px;
+    font-family: "bree serif";
+}
+
+.offerimage {
+    height: 40px;
+    width: 100vw;
+}
+
+.Blockbuster {
+    font-family: "playfair display sc";
+    font-size: 21px;
+    margin-left: 10px;
+    color: black;
+}
+
+.phonebox {
+    background-color: white;
+    border-radius: 8px;
+    margin: 15px;
+}
+
+.image2 {
+    height: 155px;
+    width: 105px;
+    margin-left: 100px;
+    margin-top: 5px;
+}
+
+.redbox {
+    background-color: red;
+    font-family: "roboto";
+    width: 10vw;
+    font-size: 10px;
+    height: 25px;
+    margin: 5px;
+}
+
+.smalltext {
+    color: white;
+    text-align: center;
+}
+
+.great {
+    color: red;
+    font-size: 11px;
+    margin-top: 5px;
+    font-family: "roboto";
+    font-weight: bold;
+}
+
+.price {
+    margin-left: 5px;
+    font-size: 10px;
+    text-align: left;
+}
+
+.amount {
+    font-size: 20px;
+    font-family: "playfair display dc";
+}
+
+.mrp {
+    color: #cccccc;
+    margin-left: 5px;
+    font-size: 15px;
+}
+
+.cut {
+    font-family: "roboto";
+    font-size: 17px;
+    color: #cccccc;
+    text-decoration: line-through;
+}
+
+.oneplus {
+    font-family: "roboto";
+    font-size: 14px;
+    margin: 5px;
+}
+
+.images {
+    width: 15vw;
+    height: 10vh;
+    margin: 7px;
+}
+
+.imagess {
+    width: 15vw;
+    height: 10vh;
+    margin: 13px;
+}
+
+.bikeimg {
+    width: 100vw;
+    height: 180px;
+    margin: 1px;
+}
+
+.end {
+    width: 100vw;
+    height: 40px;
+    font-family: "roboto";
+    background-color: grey;
+    text-align: center;
+    font-size: 12px;
+    color: white;
+}
+
+.alignn {
+    text-align: center;
+}
